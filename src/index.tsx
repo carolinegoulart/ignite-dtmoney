@@ -17,7 +17,7 @@ createServer({
           type: 'deposit',
           category: 'Salário',
           amount: 6000,
-          createdAt: new Date('2021-02-12 09:00:00')
+          createdAt: new Date('2021-08-05 09:00:00')
         },
         {
           id: 2,
@@ -25,7 +25,7 @@ createServer({
           type: 'withdraw',
           category: 'Casa',
           amount: 1100,
-          createdAt: new Date('2021-02-17 09:00:00')
+          createdAt: new Date('2021-08-06 09:00:00')
         },
         {
           id: 3,
@@ -33,7 +33,7 @@ createServer({
           type: 'withdraw',
           category: 'Compras',
           amount: 1100,
-          createdAt: new Date('2021-02-17 09:00:00')
+          createdAt: new Date('2021-08-06 09:00:00')
         },
         {
           id: 4,
@@ -41,7 +41,7 @@ createServer({
           type: 'withdraw',
           category: 'Compras',
           amount: 150,
-          createdAt: new Date('2021-02-20 09:00:00')
+          createdAt: new Date('2021-08-07 09:00:00')
         },
         {
           id: 5,
@@ -49,7 +49,7 @@ createServer({
           type: 'withdraw',
           category: 'Outros',
           amount: 200,
-          createdAt: new Date('2021-02-21 09:00:00')
+          createdAt: new Date('2021-08-07 09:00:00')
         }
       ]
     })
