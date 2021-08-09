@@ -13,5 +13,4 @@ app
       return console.log(err);
     }
     console.log('Deployment has been completed')
-    console.log(process.env.REACT_APP_API_URL)
   })
