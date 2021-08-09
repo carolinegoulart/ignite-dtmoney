@@ -18,8 +18,7 @@
 </p>
 
 <div align="center">
-  <p> Made with :heart: by
-    <a href="https://github.com/carolinegoulart">Caroline Goulart</a>
+  <p> Made with :heart: &nbsp;by <a href="https://github.com/carolinegoulart">Caroline Goulart</a>
   </p>
 </div>
 
@@ -81,6 +80,6 @@ Create a <a href="https://github.com/carolinegoulart/ignite-dtmoney/issues">new 
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
-Made with :heart: by [Caroline Goulart](https://www.linkedin.com/in/carolinegoulart/).
+Made with :heart: &nbsp;by [Caroline Goulart](https://www.linkedin.com/in/carolinegoulart/).
 
 Thank you! :star:
